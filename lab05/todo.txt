@@ -1,0 +1,8 @@
+[X]fftfun
+[X]plot_fft
+[X]ex01
+[X]sinc_fun
+[X]plot_sinc_fun
+[X]ex0304
+[X]ex05
+[X]include_chirp
